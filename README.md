@@ -1,4 +1,4 @@
-The paraphrased text is as follows:
+# Авто переводчик 
 
 ---
 
